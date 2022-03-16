@@ -1,0 +1,6 @@
+Object: An entity that has state and behavior
+State: Data
+Behavior: functionality
+public: accessible by all Classes
+private: accessible only in the class
+protected: accessible within the same package
